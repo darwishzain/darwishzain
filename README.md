@@ -14,8 +14,6 @@
 ![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Unity-informational?style=flat&logo=unity&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
-<!--![](https://img.shields.io/badge/github/downloads/darwishzain/ump-link/total)-->
-
 
 <!--
 - 🔭 I’m currently working on [Jeli.my](https://jeli.darwishzain.com) and [Recluse Board](https://github.com/darwishzain/recluse-board)
