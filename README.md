@@ -1,6 +1,6 @@
 [![Darwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwishzain&theme=radical)](https://github.com/darwishzain)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwishzain&hide=javascript,html,css,nsis,php,blade,asp.net,shaderlab&layout=compact&theme=radical)](https://github.com/darwishzain)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwishzain&hide=javascript,html,css,nsis,php,blade,asp.net,shaderlab,hlsl&layout=compact&theme=radical)](https://github.com/darwishzain)
 
 
 [![Recluse Board](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=recluse-board&theme=radical)](https://github.com/darwishzain/recluse-board)
