@@ -1,6 +1,6 @@
 [![Darwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwishzain&theme=radical)](https://github.com/darwishzain)
 
-[![](https://img.shields.io/twitch/status/boyrecluse_?style=social)](https://www.twitch.tv/boyrecluse_)
+[![](https://img.shields.io/twitch/status/boyrecluse_?style=social)](https://www.twitch.tv/boyrecluse)
 [![](https://img.shields.io/github/followers/darwishzain?style=social)](https://github.com/darwishzain)
 [![](https://img.shields.io/website?down_color=magenta&down_message=offline&up_color=cyan&up_message=online&url=https%3A%2F%2Fdarwishzain.com)](https://darwishzain.com)
 
