@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/darwishzain/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/darwishzain/count.svg) __
 
 [![Darwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwishzain&theme=radical)](https://github.com/darwishzain)
 
