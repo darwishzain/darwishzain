@@ -26,5 +26,5 @@
 ![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 
 ### Visual by:
-[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/tree/master "Github Readme Stats")
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats "Github Readme Stats")
 [Shields IO](https://shields.io/ "Shields IO")
