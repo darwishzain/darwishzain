@@ -1,4 +1,4 @@
-![Visitor Count](https://profile-counter.glitch.me/darwishzain/count.svg) [![](https://img.shields.io/github/followers/darwishzain?style=social)](https://github.com/darwishzain)
+[![Visitor Count](https://profile-counter.glitch.me/darwishzain/count.svg)](https://github.com/darwishzain) [![](https://img.shields.io/github/followers/darwishzain?style=social)](https://github.com/darwishzain)
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/darwishzainstd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/darwishzainstd) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/darwishzainstd) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/darwishzianstd) [![Twitch](https://img.shields.io/badge/Twitch-%231DA1F2.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hidarishoya)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darwishzain)
@@ -26,5 +26,5 @@
 ![](https://img.shields.io/badge/Tools-XAMPP-informational?style=flat&logo=xampp&logoColor=white&color=2bbc8a)
 
 ### Visual by:
-[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/tree/master)
-[Shields IO](https://shields.io/)
+[Github Readme Stats](https://github.com/anuraghazra/github-readme-stats/tree/master "Github Readme Stats")
+[Shields IO](https://shields.io/ "Shields IO")
