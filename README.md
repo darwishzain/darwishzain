@@ -14,6 +14,9 @@
 [![Recluse Board](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=recluse-board&theme=radical)](https://github.com/darwishzain/recluse-board)
 [![UMP Link](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=ump-link&theme=radical)](https://github.com/darwishzain/ump-link)
 [![Haura](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=haura&theme=radical)](https://github.com/darwishzain/haura)
+[![UMPSA Note](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=umpsa-note&theme=radical)](https://github.com/darwishzain/umpsa-note)
+[![UMPSA Note](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=pmms-g8&theme=radical)](https://github.com/darwishzain/pmms-g8)
+
 
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
