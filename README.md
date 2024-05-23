@@ -10,8 +10,8 @@
 [![Recluse Board](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=recluse-board&theme=holi)](https://github.com/darwishzain/recluse-board)
 [![Haura](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=haura&theme=holi)](https://github.com/darwishzain/haura)
 [![UMPSA Note](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=umpsa-n&theme=holi)](https://github.com/darwishzain/umpsa-n)
-[![UMPSA Note](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=umpsa-c&theme=holi)](https://github.com/darwishzain/umpsa-c)
-[![UMPSA Note](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=pmms-g8&theme=holi)](https://github.com/darwishzain/pmms-g8)
+[![UMPSA Community](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=umpsa-c&theme=holi)](https://github.com/darwishzain/umpsa-c)
+[![PMMS](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=pmms-g8&theme=holi)](https://github.com/darwishzain/pmms-g8)
 [![UMP Link](https://github-readme-stats.vercel.app/api/pin/?username=darwishzain&repo=ump-link&theme=holi)](https://github.com/darwishzain/ump-link)
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
