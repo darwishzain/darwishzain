@@ -1,13 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1C768F&height=250&section=header&text=Darwish%20Zain&fontSize=60&animation=twinkling&fontAlignY=38&desc=Aspiring%20Full-stack%20Developer&descAlignY=55&descAlign=58&fontColor=ffffff)
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdarwishzain&label=Total%20profile%20visits&countColor=%23263759)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdarwishzain)
-
 <!-- [![Visitor Count](https://profile-counter.glitch.me/darwishzain/count.svg)](https://github.com/darwishzain) [![](https://img.shields.io/github/followers/darwishzain?style=social)](https://github.com/darwishzain)
  -->
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/darwishzainstd) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/darwishzainstd) [![Facebook](https://img.shields.io/badge/Facebook-%231DA1F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/darwishzainstd) [![Instagram](https://img.shields.io/badge/Instagram-%231DA1F2.svg?logo=Instagram&logoColor=white)](https://instagram.com/darwishzianstd) [![Twitch](https://img.shields.io/badge/Twitch-%231DA1F2.svg?logo=Twitch&logoColor=white)](https://twitch.tv/hidarishoya)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/darwishzain)
-<!--[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19496359) -->
-
 ### ⚙️ GitHub Analytics
 [![Darwish's GitHub stats](https://github-readme-stats.vercel.app/api?username=darwishzain&theme=react)](https://github.com/darwishzain) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=darwishzain&hide=javascript,html,css,nsis,php,blade,asp.net,shaderlab,hlsl&layout=compact&theme=react)](https://github.com/darwishzain)
 
@@ -110,6 +105,14 @@
 <p>
 <a href="https://linkedin.com/in/darwishzain"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="mailto:darwishzainstudio@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://reddit.com/user/darwishzainstd"><img src="https://img.shields.io/badge/Reddit-D14836?style=for-the-badge&logo=reddit&logoColor=white&color=ff4500"></a>
+<a href="https://twitter.com/darwishzainstd"><img src="https://img.shields.io/badge/Twitter-D14836?style=for-the-badge&logo=x&logoColor=white&color=1da1f2"></a>
+<a href="https://facebook.com/darwishzainstd"><img src="https://img.shields.io/badge/Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2"></a>
+<a href="https://instagram.com/darwishzainstd"><img src="https://img.shields.io/badge/Instagram-D14836?style=for-the-badge&logo=instagram&logoColor=white&color=e1306c"></a>
+<a href="https://twitch.tv/hidarishoya"><img src="https://img.shields.io/badge/Twitch-D14836?style=for-the-badge&logo=twitch&logoColor=white&color=9146ff"></a>
+<a href="https://stackoverflow.com/users/19496359"><img src="https://img.shields.io/badge/StackOverflow-D14836?style=for-the-badge&logo=stackoverflow&logoColor=white&color=f48024"></a>
+<a href="https://tiktok.com/@darwishzainstd"><img src="https://img.shields.io/badge/Tiktok-D14836?style=for-the-badge&logo=tiktok&logoColor=white&color=000000"></a>
+<a href="https://github.com/darwishzain"><img src="https://img.shields.io/badge/github-D14836?style=for-the-badge&logo=github&logoColor=white&color=000000"></a>
 </p>
 
 **Visual by**
