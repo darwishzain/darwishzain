@@ -115,6 +115,9 @@
 <a href="https://github.com/darwishzain"><img src="https://img.shields.io/badge/github-D14836?style=for-the-badge&logo=github&logoColor=white&color=000000"></a>
 </p>
 
-**Visual by**
+## Certification
+[CCNAv7 Introduction to Networks](./cert/DARWISHMAT%20ZAIN-BCN1053-2021S2-0-certificate.pdf)
+
+**Visual From**
 
 [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats "Github Readme Stats") | [Logo](https://shields.io/ "Shields IO") | [Gif](https://giphy.com "Giphy") | [Streak Stats](https://streak-stats.demolab.com "Streak Stats")
